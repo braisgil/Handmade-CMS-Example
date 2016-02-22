@@ -1,0 +1,87 @@
+*{
+	margin:0;
+	padding:0;	
+}
+
+body{
+	background-color: #ECE9E4;
+}
+
+#contRecientes{
+  margin-top:50px;
+}
+
+#menucont{
+	height: 24px;
+	border: 1px solid black;
+}
+
+#divcabecera{
+	text-align: center;
+	font-size: 28px;
+	font-family: Chalkduster;
+	background-color: #00FF66;
+}
+
+#divlogin{
+	float: right;
+}
+
+#divbusqueda{
+	float: left;
+}
+
+
+#menu_noticias{
+	float: left;
+	border: 1px solid black;
+	width: 293px;
+	height:450px;
+}
+
+#menu_eventos{
+	float: right;
+	border: 1px solid black;
+	width: 293px;
+	height:450px;
+}
+
+#contRecientes h2{	
+	text-align: center;
+	font-size: 23px;
+	font-family: Chalkduster;
+	border: 1px solid black;
+  	background-color: #00FF66;
+}
+
+#listarnoticias {
+	float: left;
+	border: 1px solid black;
+  	margin-left: 10px;
+}
+
+#listareventos {
+	float: right;
+	border: 1px solid black;
+  	margin-right: 10px;
+}
+
+#content-cent{
+	margin-top: 90px;
+	text-align: center;
+}
+
+#enlaceindex{
+	color: black;
+	font-family: Chalkduster;
+	text-decoration:none;
+}
+
+table{
+	margin: 0 auto;
+}
+
+
+
+
+
